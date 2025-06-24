@@ -5,63 +5,63 @@ criarCartao(
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Q1",    
+    "O que a IA simula?",  
+    "Habilidades cognitivas" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Q2",    
+    "Qual subcampo lida com reconhecimento de imagens",  
+    "Visão computacional" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Q3",    
+    "Qual a sigla do subcampo que processa linguagem natural?",  
+    "PLN" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Q4",    
+    "Quantos subcampos principais a IA abrange?",  
+    "4" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Q5",    
+    "Cite uma aplicação de IA na área da saúde mencionada.",  
+    "Diagnóstico" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Q6",    
+    "Qual assistente virtual mencionado ajuda em tarefas diárias?",  
+    "Siri" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Q7",    
+    "Qual termo refere-se ao preconceito em algoritmos?",  
+    "Viés" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Q8",    
+    "Para que tarefa carros autônomos usam IA?",  
+    "Navegação" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Q9",    
+    "Que subcampo combina IA e engenharia mecânica?",  
+    "Robótica" 
 );
 
 criarCartao(
-    "Dinossauro",    
-    "Qual o mlr dinossauro",  
-    "todos" 
+    "Q10",    
+    "Em qual domínio a IA é usada para avaliação de riscos?",  
+    "Finanças" 
 );
 
 document.querySelectorAll('#container .cartao').forEach(cartao => {
